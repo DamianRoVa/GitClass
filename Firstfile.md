@@ -2,5 +2,6 @@
 ##Variable
 *Weight
 *Glucose
-*Age
+*Age_months
 ##Functions
+*Glucose uptake change with age
